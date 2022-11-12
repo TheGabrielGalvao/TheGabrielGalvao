@@ -19,16 +19,16 @@ Hi, I'm [Gabriel Galvão](),  work as a .NET developer.
 <br/>
 <br/>
 <p align=center>
-  <a href="https://github.com/luizfernandorodrigues/github-readme-stats" title="Go to Source">
-    <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=luizfernandorodrigues&show_icons=true&theme=dracula">
+  <a href="https://github.com/TheGabrielGalvao/github-readme-stats" title="Go to Source">
+    <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=thegabrielgalvao&show_icons=true&theme=dracula">
   </a>
   <a href="https://github.com/luizfernandorodrigues/github-readme-stats">
-    <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizfernandorodrigues&layout=compact&theme=dracula" />
+    <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thegabrielgalvao&layout=compact&theme=dracula" />
   </a>
 </p>
   <p align="center">
   <i>Let's connect and chat! Find me on the web...</i>
  
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/luiz-fernando-rodrigues-pereira-74ab4559/)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/gabriel-galvão/)
 
 
