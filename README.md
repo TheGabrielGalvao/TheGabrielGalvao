@@ -22,7 +22,7 @@ Hi, I'm [Gabriel Galvão](),  work as a .NET developer.
   <a href="https://github.com/TheGabrielGalvao/github-readme-stats" title="Go to Source">
     <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=thegabrielgalvao&show_icons=true&theme=dracula">
   </a>
-  <a href="https://github.com/luizfernandorodrigues/github-readme-stats">
+  <a href="https://github.com/TheGabrielGalvao/github-readme-stats">
     <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thegabrielgalvao&layout=compact&theme=dracula" />
   </a>
 </p>
@@ -30,5 +30,3 @@ Hi, I'm [Gabriel Galvão](),  work as a .NET developer.
   <i>Let's connect and chat! Find me on the web...</i>
  
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/gabriel-galvão/)
-
-
