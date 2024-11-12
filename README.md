@@ -47,5 +47,4 @@ Estou sempre aberto a novos desafios e oportunidades! Sinta-se à vontade para e
 </p>
   <p align="center">
   <i>Let's connect and chat! Find me on the web...</i>
- 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/gabriel-galvão/)
+
