@@ -19,6 +19,19 @@ Olá! Eu sou o Gabriel Galvão, um Desenvolvedor Fullstack com 7 anos de experi�
   - Início como Suporte N2 com foco em SQL Server e Redes em software de posto de combustível.
   - Atuação como Tester e desenvolvedor, focado em correção de Bugs e implementação de novas funcionalidades.
   - Contribuição no desenvolvimento de aplicações web da empresa usando Asp.NET Core, React JS, TypeScript, Redux, Styled Components, Material UI.
+ 
+**Github Stats:**
+<br/>
+<br/>
+<p align=center>
+  <a href="https://github.com/TheGabrielGalvao/github-readme-stats" title="Go to Source">
+    <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=thegabrielgalvao&show_icons=true&theme=dracula">
+  </a>
+  <a href="https://github.com/TheGabrielGalvao/github-readme-stats">
+    <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thegabrielgalvao&layout=compact&theme=dracula" />
+  </a>
+</p>
+
 
 ## Formação Acadêmica
 - **Análise e Desenvolvimento de Sistemas** - FACCAR (Concluído em Dezembro/2016)
@@ -34,17 +47,5 @@ Estou sempre aberto a novos desafios e oportunidades! Sinta-se à vontade para e
 
 ---
 
-**Github Stats:**
-<br/>
-<br/>
-<p align=center>
-  <a href="https://github.com/TheGabrielGalvao/github-readme-stats" title="Go to Source">
-    <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=thegabrielgalvao&show_icons=true&theme=dracula">
-  </a>
-  <a href="https://github.com/TheGabrielGalvao/github-readme-stats">
-    <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thegabrielgalvao&layout=compact&theme=dracula" />
-  </a>
-</p>
-  <p align="center">
-  <i>Let's connect and chat! Find me on the web...</i>
+  
 
