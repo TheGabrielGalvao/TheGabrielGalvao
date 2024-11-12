@@ -1,17 +1,36 @@
-Hi, I'm [Gabriel Galvão](),  work as a .NET developer.
+# Gabriel Galvão - Full Stack Developer
 
----
+Olá! Eu sou o Gabriel Galvão, um Desenvolvedor Fullstack com 7 anos de experiência, focado em React JS e .NET Core. Ao longo da minha carreira, tive a oportunidade de trabalhar em projetos de diferentes contextos e arquiteturas, o que me proporcionou sólidos conhecimentos em modelagem de dados e design de sistemas.
 
-**Languages and Tools:**
+## Habilidades Técnicas
+- **Linguagens e Frameworks**: React JS, .NET Core, Angular, Vue.js, jQuery, Node.js, React Native
+- **Banco de Dados**: SQL Server, MySQL, Oracle, PostgreSQL, MongoDB
+- **Ferramentas e Metodologias**: Azure DevOps, Scrum, Lean Kanban, MPSBR, CMMI
+- **Outras Habilidades**: Dapper, NHibernate, TypeORM, Redux, Material UI, Tailwind CSS, SOLID, Clean Code, Azure Functions, ETL, Data Lake
 
-<p align="center">
+## Experiência Profissional
+- **Trade Technology** (01/2024 - 10/2024)
+  - Atuação como Desenvolvedor Full Stack em manutenção e desenvolvimento de novas features de projetos outsorcing.
+- **CRP Tecnologia** (02/2023 - 10/2023)
+  - Atuação como Desenvolvedor Full Stack no desenvolvimento da primeira versão de um sistema web.
+- **dti digital** (08/2021 - 02/2023)
+  - Atuação como Arquiteto de dados e desenvolvedor .Net, com participação no planejamento, modelagem e manutenção de tabelas, Jobs e microsserviços de aplicações web focadas em dados.
+- **Meta Tecnologia** (02/2017 - 03/2021)
+  - Início como Suporte N2 com foco em SQL Server e Redes em software de posto de combustível.
+  - Atuação como Tester e desenvolvedor, focado em correção de Bugs e implementação de novas funcionalidades.
+  - Contribuição no desenvolvimento de aplicações web da empresa usando Asp.NET Core, React JS, TypeScript, Redux, Styled Components, Material UI.
 
-  <div align="center">
-  
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"></code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code> <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg"></code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
+## Formação Acadêmica
+- **Análise e Desenvolvimento de Sistemas** - FACCAR (Concluído em Dezembro/2016)
 
-  </div>
-  </p>
+## Contato
+- **LinkedIn**: [linkedin.com/in/gabriel-galvao](https://www.linkedin.com/in/gabriel-galvao/)
+- **GitHub**: [github.com/gabrielgalvao](https://github.com/gabrielgalvao)
+- **Portfolio**: [gabriel-galvao.vercel.app](https://gabriel-galvao.vercel.app)
+- **E-mail**: gabriel.galvao736@gmail.com
+- **Telefone**: (43) 98857-8911
+
+Estou sempre aberto a novos desafios e oportunidades! Sinta-se à vontade para entrar em contato.
 
 ---
 
