@@ -32,6 +32,12 @@ Olá! Eu sou o Gabriel Galvão, um Desenvolvedor Fullstack com 7 anos de experi�
   </a>
 </p>
 
+## Aguns Projetos:
+
+- **Email Capture**: Projeto desenvolvido com intuito de explorar o conceito de Minimal API desenvolvendo uma aplicação de captura de emails para ser usada em landing pages de captura. [Rspositório](https://github.com/TheGabrielGalvao/EmailCapture)
+- **Base API EF Core**: Projeto template para startup de API Asp.Net Core com Entity Framework. [Repositório](https://github.com/TheGabrielGalvao/BaseApi.EFCore)
+- **Base API Dapper**: Projeto template para startup de API Asp.Net Core com Dapper. [Repositório](https://github.com/TheGabrielGalvao/BaseApi.Dapper)
+- **Default Strutcure react Redux**: Projeto template para ser usado como startup de aplicações React usando Typescript, Redux, Redux Saga e Styled Components como principais ferramentas. [Repositório](https://github.com/TheGabrielGalvao/default-structure-react-redux)
 
 ## Formação Acadêmica
 - **Análise e Desenvolvimento de Sistemas** - FACCAR (Concluído em Dezembro/2016)
